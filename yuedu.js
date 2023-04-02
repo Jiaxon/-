@@ -1,8 +1,7 @@
 /*
-微信阅读
-推荐阅读 -> https://zl0327225334-1316423829.cos.ap-nanjing.myqcloud.com/index.html?upuid=11009756
+推荐阅读 -> https://zl0331001905-1314847560.cos.ap-nanjing.myqcloud.com/index.html?upuid=9896670
 (如无法打开，请复制链接在手机浏览器打开，获取最新入口)
-备用链接 -> https://zl0327225336-1316423829.cos.ap-nanjing.myqcloud.com/index.html?upuid=11009756
+备用链接 -> https://zl0331001907-1314847560.cos.ap-nanjing.myqcloud.com/index.html?upuid=9896670
 
 多账号请用换行隔开
 抓包搜索关键词 PHPSESSID
